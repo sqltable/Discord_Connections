@@ -1,7 +1,9 @@
 # Discord_Connections
 With this script you can use a private exploit to create "fake verified" connections.
-
-I would not recommend connecting Discord's official Twitter to your Discord account as it will get you banned!
+https://i.gyazo.com/0bd5811b42b7245a42569cbf85a87895.png
+- I own none of these Twitter accounts however they're "verified" and "connected" publicly.
+- People see these connections. It's not a one sided trick. It's server side.
+- I would not recommend connecting Discord's official Twitter to your Discord account as it will get you banned!
 
 #How to use
 - Extract all the files/folders to your Desktop.
